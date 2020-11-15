@@ -1,0 +1,51 @@
+body {
+    background-color: #3498db;
+    text-align: center;
+    color: #ecf0f1;
+
+
+}
+
+h1 {
+    font-size: 3.8rem;
+    font-weight: 1000;
+}
+
+h2 {
+    font-size: 2.3rem;
+}
+
+.btn {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    border: 10px solid #34495e;
+    border-radius: 25%;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.red {
+    background-color: pink;
+}
+
+.yellow {
+    background-color: rgb(255, 255, 81);
+}
+
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+
+}
+
+.wrong-answer{
+    background-color: red;
+}
